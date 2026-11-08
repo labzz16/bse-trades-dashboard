@@ -106,7 +106,7 @@ Make sure the MongoDB service is running before starting the backend.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/labzz16/bse-trades-dashboard
 cd bse-trades-dashboard
 ```
 
@@ -167,7 +167,7 @@ Open the local URL displayed by Vite, usually:
 
 | Method | Endpoint     | Description                            |
 |--------|--------------|----------------------------------------|
-| GET ---| `/getTrades` | Retrieves paginated mock trade records |
+| GET    | `/getTrades` | Retrieves paginated mock trade records |
 
 ### Trade APIs
 
